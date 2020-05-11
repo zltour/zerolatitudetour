@@ -15,7 +15,7 @@ banner:
 sections:
 - type: icons
   template: icons
-  title: Arcu aliquet vel lobortis ata nisleget augue amet aliquet nisl cep donec
+  title: About ZLTour
   subtitle: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
     \ \nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
     \ "
