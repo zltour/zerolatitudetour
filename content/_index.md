@@ -6,13 +6,9 @@ banner:
     A new form of doing tourism.
 
     Get Involved!
-  actions:
-  - label: Activate
-    url: "/generic"
-    is_scrolly: false
-    is_primary: true
+  actions: []
   bottom_link:
-    label: Learn More
+    label: See more
     url: "#one"
     has_arrow: true
     is_scrolly: true
