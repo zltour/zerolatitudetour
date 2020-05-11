@@ -1,6 +1,7 @@
 ---
-title: Generic Page
-subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: About
+subtitle: ZEROLatitude Tour is an event to do in a beautiful country located in south
+  america.
 background_style: style5
 layout: page
 menu:
