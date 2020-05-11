@@ -1,8 +1,11 @@
 ---
 title: Home
 banner:
-  title: Spectral
-  subtitle: "Blandit duis accumsan  \narcu sagittis viverra  \nblandit at Interdum."
+  title: ZEROLatitude TOUR
+  subtitle: |-
+    A new form of doing tourism.
+
+    Get Involved!
   actions:
   - label: Activate
     url: "/generic"
