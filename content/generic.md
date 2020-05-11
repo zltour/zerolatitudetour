@@ -8,7 +8,6 @@ menu:
   main:
     name: Generic
     weight: 2
-draft: true
 
 ---
 ### Lorem ipsum dolor
